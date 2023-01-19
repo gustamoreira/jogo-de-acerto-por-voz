@@ -1,6 +1,6 @@
-## Jogo de acerto por voz
+# Jogo de acerto por voz
 
-# Acerte o número falando.
+## Acerte o número falando.
 
 <hr>
 
@@ -8,13 +8,13 @@
 
 <hr>
 
-# Link para testar o projeto
+## Link para testar o projeto
 
 https://gustamoreira.github.io/jogo-de-acerto-por-voz/
 
 <hr>
 
-# Tecnologias utilizadas durante o curso
+## Tecnologias utilizadas durante o curso
 * JavaScript
 * HTML
 * CSS
